@@ -8,3 +8,5 @@ export default function HomePage() {
         </>
     );
 };
+
+// => http://localhost:3000/
